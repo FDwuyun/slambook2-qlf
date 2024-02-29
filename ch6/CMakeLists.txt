@@ -18,15 +18,15 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 
 # Ceres
 find_package(Ceres REQUIRED)
-if(Ceres_FOUND)
-    message("Found Ceres Solver: ${Ceres_VERSION}")
-    message("Ceres Solver include directories: ${CERES_INCLUDE_DIRS}")
-    message("Ceres Solver libraries: ${Ceres_LIBRARIES}")
-    ## Found Ceres Solver: 2.0.0
-    ## 
-else()
-    message(FATAL_ERROR "Ceres Solver not found")
-endif()
+# if(Ceres_FOUND)
+#     message("Found Ceres Solver: ${Ceres_VERSION}")
+#     message("Ceres Solver include directories: ${CERES_INCLUDE_DIRS}")
+#     message("Ceres Solver libraries: ${Ceres_LIBRARIES}")
+#     ## Found Ceres Solver: 2.0.0
+#     ## 
+# else()
+#     message(FATAL_ERROR "Ceres Solver not found")
+# endif()
 include_directories(${CERES_INCLUDE_DIRS})
 
 # g2o

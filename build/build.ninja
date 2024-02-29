@@ -207,11 +207,6 @@ build all: phony ch6/all
 build ch6/all: phony ch6/g2oCurveFitting ch6/ceresCurveFitting ch6/gaussNewton
 
 # =============================================================================
-# Unknown Build Time Dependencies.
-# Tell Ninja that they may appear as side effects of build rules
-# otherwise ordered by order-only dependencies.
-
-# =============================================================================
 # Built-in targets
 
 
