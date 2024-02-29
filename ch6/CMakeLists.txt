@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.16)
 project(ch6)
 
 # set(CMAKE_BUILD_TYPE Release)
