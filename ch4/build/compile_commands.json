@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/le/qlf/slambook2-qlf/ch4/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/eigen3 -g -o CMakeFiles/useSophus.dir/useSophus.cpp.o -c /home/le/qlf/slambook2-qlf/ch4/useSophus.cpp",
+  "file": "/home/le/qlf/slambook2-qlf/ch4/useSophus.cpp"
+},
+{
+  "directory": "/home/le/qlf/slambook2-qlf/ch4/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/eigen3 -g -o example/CMakeFiles/trajectoryError.dir/trajectoryError.cpp.o -c /home/le/qlf/slambook2-qlf/ch4/example/trajectoryError.cpp",
+  "file": "/home/le/qlf/slambook2-qlf/ch4/example/trajectoryError.cpp"
+}
+]

@@ -1,0 +1,99 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "ch6",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "ch6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "slambook2-qlf"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "ch6",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "ceresCurveFitting::@c14cbb7dbb214f8347bd",
+					"jsonFile" : "target-ceresCurveFitting-Debug-62d3d453086ecaf225d6.json",
+					"name" : "ceresCurveFitting",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "g2oCurveFitting::@c14cbb7dbb214f8347bd",
+					"jsonFile" : "target-g2oCurveFitting-Debug-76dc2c35135e2a01fde6.json",
+					"name" : "g2oCurveFitting",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gaussNewton::@c14cbb7dbb214f8347bd",
+					"jsonFile" : "target-gaussNewton-Debug-a1fbb6bc824c798df068.json",
+					"name" : "gaussNewton",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/qlf_home/Documents/slambook2-qlf/build",
+		"source" : "/qlf_home/Documents/slambook2-qlf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

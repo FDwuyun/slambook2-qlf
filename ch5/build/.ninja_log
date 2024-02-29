@@ -1,0 +1,23 @@
+# ninja log v5
+0	484	1709028152	imageBasics/CMakeFiles/imageBasics.dir/imageBasics.cpp.o	41e30b3bf5e28e69
+486	850	1709028152	imageBasics/imageBasics	c20f14aa2abce274
+0	1064	1709028152	imageBasics/CMakeFiles/undistortImage.dir/undistortImage.cpp.o	761e1cd681e74242
+1065	1342	1709028153	imageBasics/undistortImage	11182ed59cb95fe6
+1	2387	1709028154	stereo/CMakeFiles/stereoVision.dir/stereoVision.cpp.o	7a54690ef29ec181
+2388	2966	1709028154	stereo/stereoVision	b80c6bb16d64eaf
+1	3980	1709028155	rgbd/CMakeFiles/joinMap.dir/joinMap.cpp.o	ac98b281077db47e
+2	531	1709028487	imageBasics/CMakeFiles/imageBasics.dir/imageBasics.cpp.o	ab4be605046a095b
+531	755	1709028487	imageBasics/imageBasics	c0e18ea24faec45b
+1	535	1709028629	imageBasics/CMakeFiles/imageBasics.dir/imageBasics.cpp.o	ab4be605046a095b
+535	783	1709028630	imageBasics/imageBasics	c0e18ea24faec45b
+1	1234	1709030464	imageBasics/CMakeFiles/undistortImage.dir/undistortImage.cpp.o	82a20cf48b862c7c
+1234	1501	1709030464	imageBasics/undistortImage	1ada683803684c2b
+4	1216	1709031491	imageBasics/CMakeFiles/undistortImage.dir/undistortImage.cpp.o	82a20cf48b862c7c
+1216	1495	1709031492	imageBasics/undistortImage	1ada683803684c2b
+5	2627	1709031493	stereo/CMakeFiles/stereoVision.dir/stereoVision.cpp.o	199ce1003931b9f2
+2627	3109	1709031493	stereo/stereoVision	c01a2b308026a0ee
+5	5615	1709031496	rgbd/CMakeFiles/joinMap.dir/joinMap.cpp.o	995e319bead098cc
+5	564	1709031812	stereo/stereoVision	c28ba2d6ee713de6
+3	505	1709032430	stereo/stereoVision	c01a2b308026a0ee
+5	5272	1709034561	rgbd/CMakeFiles/joinMap.dir/joinMap.cpp.o	995e319bead098cc
+5273	5769	1709034562	rgbd/joinMap	457e3fa898789b99

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/le/qlf/slambook2-qlf/ch2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/helloSLAM.dir/helloSLAM.cpp.o -c /home/le/qlf/slambook2-qlf/ch2/helloSLAM.cpp",
+  "file": "/home/le/qlf/slambook2-qlf/ch2/helloSLAM.cpp"
+},
+{
+  "directory": "/home/le/qlf/slambook2-qlf/ch2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/hello.dir/libHelloSLAM.cpp.o -c /home/le/qlf/slambook2-qlf/ch2/libHelloSLAM.cpp",
+  "file": "/home/le/qlf/slambook2-qlf/ch2/libHelloSLAM.cpp"
+},
+{
+  "directory": "/home/le/qlf/slambook2-qlf/ch2/build",
+  "command": "/usr/bin/g++ -Dhello_shared_EXPORTS -g -fPIC -o CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o -c /home/le/qlf/slambook2-qlf/ch2/libHelloSLAM.cpp",
+  "file": "/home/le/qlf/slambook2-qlf/ch2/libHelloSLAM.cpp"
+},
+{
+  "directory": "/home/le/qlf/slambook2-qlf/ch2/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/useHello.dir/useHello.cpp.o -c /home/le/qlf/slambook2-qlf/ch2/useHello.cpp",
+  "file": "/home/le/qlf/slambook2-qlf/ch2/useHello.cpp"
+}
+]

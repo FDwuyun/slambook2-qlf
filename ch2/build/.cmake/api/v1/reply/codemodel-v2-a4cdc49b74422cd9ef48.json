@@ -1,0 +1,83 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HelloSLAM",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello-Debug-28d58f7629102b5c57cd.json",
+					"name" : "hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "helloSLAM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-helloSLAM-Debug-977dad2d788cf7ff3d37.json",
+					"name" : "helloSLAM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_shared-Debug-9d5072a88e247b738b50.json",
+					"name" : "hello_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "useHello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-useHello-Debug-2a0cf61363f788fb857a.json",
+					"name" : "useHello",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/le/qlf/slambook2-qlf/ch2/build",
+		"source" : "/home/le/qlf/slambook2-qlf/ch2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
